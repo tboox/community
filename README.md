@@ -1,5 +1,11 @@
 # Welcome to TBOOX Open Source Community ([中文](https://github.com/tboox/community/blob/master/README_zh.md))
 
+## Technical discussion
+
+* C/C++/Lua Language
+* The Cross-platform Development
+* The TBOOX Open Source Projects
+
 ## Community Navigation
 
 * [Browse](https://github.com/tboox/community/issues)

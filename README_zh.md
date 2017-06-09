@@ -1,5 +1,11 @@
 # 欢迎来到TBOOX开源技术交流社区
 
+## 技术交流
+
+* C/C++/Lua语言
+* 跨平台开发
+* TBOOX开源项目
+
 ## 社区导航
 
 * [随便看看](https://github.com/tboox/community/issues)
