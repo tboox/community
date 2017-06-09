@@ -3,11 +3,11 @@
 ## Community Navigation
 
 * [Browse](https://github.com/tboox/community/issues)
-* [Discussion](https://github.com/tboox/community/issues)
-* [Question](https://github.com/tboox/community/issues)
-* [Share](https://github.com/tboox/community/issues)
-* [Help wanted](https://github.com/tboox/community/issues)
-* [Awesome](https://github.com/tboox/community/issues)
+* [Discussion](https://github.com/tboox/community/labels/discussion)
+* [Question](https://github.com/tboox/community/labels/question)
+* [Share](https://github.com/tboox/community/labels/share)
+* [Help wanted](https://github.com/tboox/community/labels/help%20wanted)
+* [Awesome](https://github.com/tboox/community/labels/awesome)
 
 ## Post specifications
 

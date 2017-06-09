@@ -3,15 +3,15 @@
 ## 社区导航
 
 * [随便看看](https://github.com/tboox/community/issues)
-* [讨论贴](https://github.com/tboox/community/issues)
-* [问答帖](https://github.com/tboox/community/issues)
-* [分享帖](https://github.com/tboox/community/issues)
-* [求助帖](https://github.com/tboox/community/issues)
-* [精华帖](https://github.com/tboox/community/issues)
+* [讨论贴](https://github.com/tboox/community/labels/discussion)
+* [问答帖](https://github.com/tboox/community/labels/question)
+* [分享帖](https://github.com/tboox/community/labels/share)
+* [求助帖](https://github.com/tboox/community/labels/help%20wanted)
+* [精华帖](https://github.com/tboox/community/labels/awesome)
 
 ## 发帖规范  
 
-* 发帖标题以：`[讨论]`, `[问答]`, `[分享]`, `[求助]` 开头，例如：`[讨论]：XXX`
+* 发帖标题以：`[讨论]`, `[提问]`, `[分享]`, `[求助]` 开头，例如：`[讨论]：XXX`
 * `Watch`接受最新社区动态，`Subscribe`订阅当前讨论帖消息
 
 ## 联系方式
