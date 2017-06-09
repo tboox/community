@@ -1,4 +1,4 @@
-# Welcome to TBOOX Open Source Community [中文](https://github.com/tboox/community/blob/master/README_zh.md)
+# Welcome to TBOOX Open Source Community ([中文](https://github.com/tboox/community/blob/master/README_zh.md))
 
 ## Community Navigation
 
